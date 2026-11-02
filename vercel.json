@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/api?username=mishab339",
+      "permanent": false
+    }
+  ]
+}
